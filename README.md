@@ -3,3 +3,10 @@ This is a Windows-based portable document watermarking application addressing th
 
 
 ![thetool](Screenshots/screenshot1.jpg)
+
+
+## Important Note
+
+The binary file for this tool is not cryptographically signed, which may trigger "Publisher: Unknown" warnings on Windows. This is a standard security measure for unverified software.
+
+To ensure the binary's integrity, I have provided its SHA256 hash. You can use this hash to verify that the binary has not been altered during download.
